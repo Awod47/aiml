@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 def aStarAlgo(start_node, stop_node):
          
         open_set = set(start_node) 
